@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Local dataset/cache files
+.cache/
+data_raw/
+
