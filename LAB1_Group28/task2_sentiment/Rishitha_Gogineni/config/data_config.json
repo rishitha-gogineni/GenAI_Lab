@@ -1,0 +1,16 @@
+{
+  "student_name": "Rishitha_Gogineni",
+  "team_number": 28,
+  "seed": 42,
+  "dataset_name": "fancyzhx/yelp_polarity",
+  "eda": {
+    "length_unit": "words",
+    "histogram_max_words": 1000,
+    "sample_reviews_per_class": 5
+  },
+  "preprocessing": {
+    "max_length": 384,
+    "vocab_size": 30000,
+    "validation_fraction": 0.1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "train_rows": 560000,
+  "test_rows": 38000,
+  "train_classes": {
+    "negative_count": 280000,
+    "positive_count": 280000,
+    "negative_percent": 50.0,
+    "positive_percent": 50.0
+  },
+  "test_classes": {
+    "negative_count": 19000,
+    "positive_count": 19000,
+    "negative_percent": 50.0,
+    "positive_percent": 50.0
+  },
+  "train_review_length_words": {
+    "min": 1,
+    "mean": 133.0288732142857,
+    "median": 97.0,
+    "std": 122.61150384554489,
+    "p90": 282.0,
+    "p95": 372.0,
+    "p99": 608.0,
+    "max": 1052
+  },
+  "test_review_length_words": {
+    "min": 1,
+    "mean": 132.55863157894737,
+    "median": 97.0,
+    "std": 121.21501984499346,
+    "p90": 281.0,
+    "p95": 367.0,
+    "p99": 603.010000000002,
+    "max": 1007
+  },
+  "train_data_checks": {
+    "missing_text": 0,
+    "empty_or_malformed_text": 0,
+    "missing_label": 0,
+    "malformed_label": 0
+  },
+  "test_data_checks": {
+    "missing_text": 0,
+    "empty_or_malformed_text": 0,
+    "missing_label": 0,
+    "malformed_label": 0
+  }
+}

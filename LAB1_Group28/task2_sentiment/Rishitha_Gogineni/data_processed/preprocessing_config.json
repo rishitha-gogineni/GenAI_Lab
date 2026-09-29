@@ -1,0 +1,16 @@
+{
+  "vocab_size": 30000,
+  "max_length": 384,
+  "pad_token": "<PAD>",
+  "unk_token": "<UNK>",
+  "lowercase": true,
+  "remove_urls": true,
+  "normalize_whitespace": true,
+  "expand_contractions": true,
+  "preserve_negation": true,
+  "stopword_removal": false,
+  "stemming": false,
+  "lemmatization": false,
+  "vocabulary_source": "training_subset_only",
+  "split_file": "split_indices.npz"
+}

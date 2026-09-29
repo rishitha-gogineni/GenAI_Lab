@@ -1,0 +1,23 @@
+{
+  "original_train_reviews": 560000,
+  "test_reviews": 38000,
+  "cleaned_empty_reviews": 28,
+  "usable_reviews": 559972,
+  "train_reviews": 503974,
+  "validation_reviews": 55998,
+  "validation_fraction": 0.1,
+  "validation_seed": 42,
+  "vocabulary_source": "training_subset_only",
+  "unique_training_tokens": 231109,
+  "requested_vocab_size": 30000,
+  "final_vocab_size": 30000,
+  "vocab_coverage_percent": 99.07934087471891,
+  "max_length": 384,
+  "train_reviews_over_max_length": 25436,
+  "train_reviews_over_max_length_percent": 5.047085762360757,
+  "train_tokens_removed_by_truncation_percent": 5.430532408481394,
+  "stopword_removal": false,
+  "stemming": false,
+  "lemmatization": false,
+  "negation_preserved": true
+}
