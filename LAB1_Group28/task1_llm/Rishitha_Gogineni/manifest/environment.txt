@@ -1,0 +1,9 @@
+python=3.11.9
+pytorch=2.7.1+cu118
+numpy=2.4.6
+cuda_available=True
+pytorch_cuda=11.8
+datasets=5.0.1
+matplotlib=3.11.2
+gpu=NVIDIA GeForce RTX 2070 Super with Max-Q Design
+gpu_memory_gb=8.0

@@ -1,0 +1,3 @@
+run_id,checkpoint,result,validation_loss,source_log
+20260925_163912,checkpoints\20260925_163912_best.pt,lowest validation loss,0.580865,logs\raw\train_20260925_163912.log
+20260925_163912,checkpoints\20260925_163912_last.pt,final epoch,0.580865,logs\raw\train_20260925_163912.log
