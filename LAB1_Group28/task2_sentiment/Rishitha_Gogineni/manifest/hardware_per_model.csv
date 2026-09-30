@@ -1,0 +1,4 @@
+model,run_id,python,cpu_identifier,gpu,gpu_memory_gb,pytorch,cuda_available,pytorch_cuda,platform
+Model 1 - Mean-Pooled Embedding Baseline,20260926_130146,3.11.9,Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz,NVIDIA GeForce RTX 2070 Super with Max-Q Design,8.00,2.7.1+cu118,True,11.8,Windows-10-10.0.22631-SP0
+Model 2 - DPCNN,20260926_152502,3.11.9,Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz,NVIDIA GeForce RTX 2070 Super with Max-Q Design,8.00,2.7.1+cu118,True,11.8,Windows-10-10.0.22631-SP0
+Model 3 - TextCNN,20260926_133806,3.11.9,Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz,NVIDIA GeForce RTX 2070 Super with Max-Q Design,8.00,2.7.1+cu118,True,11.8,Windows-10-10.0.22631-SP0

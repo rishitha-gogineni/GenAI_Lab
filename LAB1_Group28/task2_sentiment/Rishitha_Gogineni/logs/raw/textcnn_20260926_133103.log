@@ -1,0 +1,47 @@
+run_id=20260926_133103
+model=textcnn
+device=cuda
+parameters=6307969
+vocabulary_source=training_subset_only
+train_examples=503974
+val_examples=55998
+step=200 loss=0.5003
+step=400 loss=0.4022
+step=600 loss=0.3047
+step=800 loss=0.2385
+step=1000 loss=0.1097
+step=1200 loss=0.2484
+step=1400 loss=0.3663
+step=1600 loss=0.3931
+step=1800 loss=0.1868
+step=2000 loss=0.2244
+step=2200 loss=0.1921
+step=2400 loss=0.4272
+step=2600 loss=0.2398
+step=2800 loss=0.2159
+step=3000 loss=0.1225
+step=3200 loss=0.3539
+step=3400 loss=0.1895
+step=3600 loss=0.1776
+step=3800 loss=0.2429
+step=4000 loss=0.1074
+step=4200 loss=0.1262
+step=4400 loss=0.1908
+step=4600 loss=0.1770
+step=4800 loss=0.1350
+step=5000 loss=0.3243
+step=5200 loss=0.1571
+step=5400 loss=0.2127
+step=5600 loss=0.1285
+step=5800 loss=0.1677
+step=6000 loss=0.1858
+step=6200 loss=0.1230
+step=6400 loss=0.2188
+step=6600 loss=0.2047
+step=6800 loss=0.2977
+step=7000 loss=0.1045
+step=7200 loss=0.1758
+step=7400 loss=0.2203
+step=7600 loss=0.1451
+step=7800 loss=0.1513
+epoch=1 train_loss=0.2261 train_accuracy=0.9071 val_loss=0.1497 val_accuracy=0.9420 epoch_time_sec=195.38 examples_per_sec=2579.45

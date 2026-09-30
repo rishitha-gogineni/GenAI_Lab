@@ -1,0 +1,11 @@
+run_id=20260926_113051
+model=baseline
+device=cuda
+parameters=3873281
+cleaned_empty_removed=28
+train_examples=1800
+val_examples=200
+step=1 loss=0.7004
+step=2 loss=0.6803
+step=3 loss=0.7136
+epoch=1 train_loss=0.6981 val_loss=0.6951 val_accuracy=0.4896 epoch_time_sec=0.46 examples_per_sec=209.80

@@ -1,0 +1,4 @@
+model_label,run_id,checkpoint,best_epoch,validation_loss,validation_accuracy,test_metrics_file,prediction_file,raw_log
+Model 1 - Mean-Pooled Embedding Baseline,20260926_130146,checkpoints/baseline_20260926_130146_best.pt,3,0.171307,0.933426,outputs/baseline_20260926_130146_test_metrics.csv,outputs/predictions/baseline_20260926_130146_predictions.csv,logs/raw/baseline_20260926_130146.log
+Model 2 - DPCNN,20260926_152502,checkpoints/dpcnn_20260926_152502_best.pt,2,0.134362,0.94857,outputs/dpcnn_20260926_152502_test_metrics.csv,outputs/predictions/dpcnn_20260926_152502_predictions.csv,logs/raw/dpcnn_20260926_152502.log
+Model 3 - TextCNN,20260926_133806,checkpoints/textcnn_20260926_133806_best.pt,3,0.137209,0.949391,outputs/textcnn_20260926_133806_test_metrics.csv,outputs/predictions/textcnn_20260926_133806_predictions.csv,logs/raw/textcnn_20260926_133806.log

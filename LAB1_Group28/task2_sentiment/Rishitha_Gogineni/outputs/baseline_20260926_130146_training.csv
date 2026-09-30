@@ -1,0 +1,9 @@
+metric,value
+run_id,20260926_130146
+model,baseline
+train_loss,0.136399
+validation_loss,0.173562
+validation_accuracy,0.932730
+parameter_count,3873281
+peak_memory_gb,0.122
+training_time_seconds,660.41

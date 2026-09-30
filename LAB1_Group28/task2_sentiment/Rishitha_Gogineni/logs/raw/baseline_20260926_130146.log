@@ -1,0 +1,110 @@
+run_id=20260926_130146
+model=baseline
+device=cuda
+parameters=3873281
+vocabulary_source=training_subset_only
+train_examples=503974
+val_examples=55998
+step=200 loss=0.3240
+step=400 loss=0.2324
+step=600 loss=0.1974
+step=800 loss=0.2320
+step=1000 loss=0.1647
+step=1200 loss=0.2351
+step=1400 loss=0.1869
+step=1600 loss=0.1939
+step=1800 loss=0.3683
+step=2000 loss=0.2044
+step=2200 loss=0.1583
+step=2400 loss=0.1675
+step=2600 loss=0.1712
+step=2800 loss=0.1751
+step=3000 loss=0.1661
+step=3200 loss=0.0991
+step=3400 loss=0.1159
+step=3600 loss=0.1786
+step=3800 loss=0.2299
+epoch=1 train_loss=0.2169 val_loss=0.1769 val_accuracy=0.9309 epoch_time_sec=126.27 examples_per_sec=3991.38
+step=4000 loss=0.1379
+step=4200 loss=0.1038
+step=4400 loss=0.2472
+step=4600 loss=0.2563
+step=4800 loss=0.2038
+step=5000 loss=0.1938
+step=5200 loss=0.1682
+step=5400 loss=0.2565
+step=5600 loss=0.1781
+step=5800 loss=0.1392
+step=6000 loss=0.1965
+step=6200 loss=0.0692
+step=6400 loss=0.0999
+step=6600 loss=0.1665
+step=6800 loss=0.2743
+step=7000 loss=0.2166
+step=7200 loss=0.1662
+step=7400 loss=0.1648
+step=7600 loss=0.1250
+step=7800 loss=0.1325
+epoch=2 train_loss=0.1619 val_loss=0.1715 val_accuracy=0.9335 epoch_time_sec=128.45 examples_per_sec=3923.52
+step=8000 loss=0.1058
+step=8200 loss=0.1657
+step=8400 loss=0.1417
+step=8600 loss=0.0764
+step=8800 loss=0.1037
+step=9000 loss=0.1097
+step=9200 loss=0.0952
+step=9400 loss=0.0979
+step=9600 loss=0.1721
+step=9800 loss=0.2054
+step=10000 loss=0.1374
+step=10200 loss=0.1092
+step=10400 loss=0.1783
+step=10600 loss=0.1321
+step=10800 loss=0.1324
+step=11000 loss=0.1364
+step=11200 loss=0.2078
+step=11400 loss=0.1487
+step=11600 loss=0.1820
+step=11800 loss=0.2005
+epoch=3 train_loss=0.1496 val_loss=0.1713 val_accuracy=0.9334 epoch_time_sec=138.15 examples_per_sec=3648.05
+step=12000 loss=0.1634
+step=12200 loss=0.1478
+step=12400 loss=0.1215
+step=12600 loss=0.1905
+step=12800 loss=0.2808
+step=13000 loss=0.1054
+step=13200 loss=0.0666
+step=13400 loss=0.2177
+step=13600 loss=0.1216
+step=13800 loss=0.1396
+step=14000 loss=0.1180
+step=14200 loss=0.1546
+step=14400 loss=0.1674
+step=14600 loss=0.2125
+step=14800 loss=0.1316
+step=15000 loss=0.1214
+step=15200 loss=0.0917
+step=15400 loss=0.1382
+step=15600 loss=0.1382
+epoch=4 train_loss=0.1420 val_loss=0.1717 val_accuracy=0.9337 epoch_time_sec=133.66 examples_per_sec=3770.54
+step=15800 loss=0.2097
+step=16000 loss=0.2333
+step=16200 loss=0.0845
+step=16400 loss=0.1344
+step=16600 loss=0.1015
+step=16800 loss=0.1551
+step=17000 loss=0.1045
+step=17200 loss=0.1084
+step=17400 loss=0.1062
+step=17600 loss=0.1034
+step=17800 loss=0.1469
+step=18000 loss=0.1738
+step=18200 loss=0.1565
+step=18400 loss=0.0905
+step=18600 loss=0.1414
+step=18800 loss=0.1073
+step=19000 loss=0.0932
+step=19200 loss=0.1146
+step=19400 loss=0.1048
+step=19600 loss=0.0595
+epoch=5 train_loss=0.1364 val_loss=0.1736 val_accuracy=0.9327 epoch_time_sec=133.35 examples_per_sec=3779.31

@@ -1,0 +1,10 @@
+metric,value
+run_id,20260926_133806
+model,textcnn
+train_loss,0.105613
+train_accuracy,0.962589
+validation_loss,0.145481
+validation_accuracy,0.949909
+parameter_count,6307969
+peak_memory_gb,0.178
+training_time_seconds,1006.77

@@ -1,0 +1,8 @@
+python=3.11.9
+platform=Windows-10-10.0.22631-SP0
+cpu=Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz
+pytorch=2.7.1+cu118
+cuda_available=True
+pytorch_cuda=11.8
+gpu=NVIDIA GeForce RTX 2070 Super with Max-Q Design
+gpu_memory_gb=8.00

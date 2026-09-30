@@ -1,0 +1,11 @@
+run_id=20260926_145807
+model=dpcnn
+device=cuda
+parameters=7652501
+vocabulary_source=training_subset_only
+train_examples=1800
+val_examples=200
+step=1 loss=0.7886
+step=2 loss=2.3846
+step=3 loss=2.0133
+epoch=1 train_loss=1.7288 train_accuracy=0.5625 val_loss=0.8675 val_accuracy=0.4583 epoch_time_sec=0.53 examples_per_sec=91.23

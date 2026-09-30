@@ -1,0 +1,144 @@
+model,metric,value
+Model 1 - Mean-Pooled Embedding Baseline,run_id,20260926_130146
+Model 1 - Mean-Pooled Embedding Baseline,best_checkpoint_epoch,3
+Model 1 - Mean-Pooled Embedding Baseline,validation_loss,0.171307
+Model 1 - Mean-Pooled Embedding Baseline,validation_accuracy,0.933426
+Model 1 - Mean-Pooled Embedding Baseline,accuracy,0.937474
+Model 1 - Mean-Pooled Embedding Baseline,precision_macro,0.937494
+Model 1 - Mean-Pooled Embedding Baseline,precision_micro,0.937474
+Model 1 - Mean-Pooled Embedding Baseline,precision_weighted,0.937494
+Model 1 - Mean-Pooled Embedding Baseline,recall_macro,0.937474
+Model 1 - Mean-Pooled Embedding Baseline,recall_micro,0.937474
+Model 1 - Mean-Pooled Embedding Baseline,recall_weighted,0.937474
+Model 1 - Mean-Pooled Embedding Baseline,f1_macro,0.937473
+Model 1 - Mean-Pooled Embedding Baseline,f1_micro,0.937474
+Model 1 - Mean-Pooled Embedding Baseline,f1_weighted,0.937473
+Model 1 - Mean-Pooled Embedding Baseline,roc_auc,0.983716
+Model 1 - Mean-Pooled Embedding Baseline,pr_auc,0.983414
+Model 1 - Mean-Pooled Embedding Baseline,mcc,0.874967
+Model 1 - Mean-Pooled Embedding Baseline,brier_score,0.046675
+Model 1 - Mean-Pooled Embedding Baseline,ece,0.007754
+Model 1 - Mean-Pooled Embedding Baseline,accuracy_ci95_low,0.935026
+Model 1 - Mean-Pooled Embedding Baseline,accuracy_ci95_high,0.939764
+Model 1 - Mean-Pooled Embedding Baseline,macro_f1_ci95_low,0.935025
+Model 1 - Mean-Pooled Embedding Baseline,macro_f1_ci95_high,0.939764
+Model 1 - Mean-Pooled Embedding Baseline,mcc_ci95_low,0.870067
+Model 1 - Mean-Pooled Embedding Baseline,mcc_ci95_high,0.879555
+Model 1 - Mean-Pooled Embedding Baseline,parameter_count,3873281
+Model 1 - Mean-Pooled Embedding Baseline,training_time_seconds,660.41
+Model 1 - Mean-Pooled Embedding Baseline,mean_training_examples_per_sec,3822.56
+Model 1 - Mean-Pooled Embedding Baseline,peak_training_memory_gb,0.122
+Model 1 - Mean-Pooled Embedding Baseline,test_examples_per_sec,4427.802289
+Model 1 - Mean-Pooled Embedding Baseline,peak_eval_memory_gb,0.114165
+Model 2 - DPCNN,run_id,20260926_152502
+Model 2 - DPCNN,best_checkpoint_epoch,2
+Model 2 - DPCNN,validation_loss,0.134362
+Model 2 - DPCNN,validation_accuracy,0.94857
+Model 2 - DPCNN,accuracy,0.950816
+Model 2 - DPCNN,precision_macro,0.951639
+Model 2 - DPCNN,precision_micro,0.950816
+Model 2 - DPCNN,precision_weighted,0.951639
+Model 2 - DPCNN,recall_macro,0.950816
+Model 2 - DPCNN,recall_micro,0.950816
+Model 2 - DPCNN,recall_weighted,0.950816
+Model 2 - DPCNN,f1_macro,0.950793
+Model 2 - DPCNN,f1_micro,0.950816
+Model 2 - DPCNN,f1_weighted,0.950793
+Model 2 - DPCNN,roc_auc,0.991085
+Model 2 - DPCNN,pr_auc,0.991458
+Model 2 - DPCNN,mcc,0.902454
+Model 2 - DPCNN,brier_score,0.037274
+Model 2 - DPCNN,ece,0.023384
+Model 2 - DPCNN,accuracy_ci95_low,0.948789
+Model 2 - DPCNN,accuracy_ci95_high,0.952868
+Model 2 - DPCNN,macro_f1_ci95_low,0.948771
+Model 2 - DPCNN,macro_f1_ci95_high,0.952829
+Model 2 - DPCNN,mcc_ci95_low,0.898453
+Model 2 - DPCNN,mcc_ci95_high,0.906466
+Model 2 - DPCNN,parameter_count,7652501
+Model 2 - DPCNN,training_time_seconds,1435.73
+Model 2 - DPCNN,mean_training_examples_per_sec,1757.0739999999998
+Model 2 - DPCNN,peak_training_memory_gb,0.229
+Model 2 - DPCNN,test_examples_per_sec,2981.887746
+Model 2 - DPCNN,peak_eval_memory_gb,0.312962
+Model 3 - TextCNN,run_id,20260926_133806
+Model 3 - TextCNN,best_checkpoint_epoch,3
+Model 3 - TextCNN,validation_loss,0.137209
+Model 3 - TextCNN,validation_accuracy,0.949391
+Model 3 - TextCNN,accuracy,0.9515
+Model 3 - TextCNN,precision_macro,0.951501
+Model 3 - TextCNN,precision_micro,0.9515
+Model 3 - TextCNN,precision_weighted,0.951501
+Model 3 - TextCNN,recall_macro,0.9515
+Model 3 - TextCNN,recall_micro,0.9515
+Model 3 - TextCNN,recall_weighted,0.9515
+Model 3 - TextCNN,f1_macro,0.9515
+Model 3 - TextCNN,f1_micro,0.9515
+Model 3 - TextCNN,f1_weighted,0.9515
+Model 3 - TextCNN,roc_auc,0.989159
+Model 3 - TextCNN,pr_auc,0.989517
+Model 3 - TextCNN,mcc,0.903001
+Model 3 - TextCNN,brier_score,0.037165
+Model 3 - TextCNN,ece,0.008029
+Model 3 - TextCNN,accuracy_ci95_low,0.949211
+Model 3 - TextCNN,accuracy_ci95_high,0.953527
+Model 3 - TextCNN,macro_f1_ci95_low,0.94921
+Model 3 - TextCNN,macro_f1_ci95_high,0.953526
+Model 3 - TextCNN,mcc_ci95_low,0.898424
+Model 3 - TextCNN,mcc_ci95_high,0.907053
+Model 3 - TextCNN,parameter_count,6307969
+Model 3 - TextCNN,training_time_seconds,1006.77
+Model 3 - TextCNN,mean_training_examples_per_sec,2506.1240000000003
+Model 3 - TextCNN,peak_training_memory_gb,0.178
+Model 3 - TextCNN,test_examples_per_sec,4273.234006
+Model 3 - TextCNN,peak_eval_memory_gb,0.227106
+Baseline vs DPCNN,baseline_only_correct,935
+Baseline vs DPCNN,experimental_only_correct,1442
+Baseline vs DPCNN,discordant_pairs,2377
+Baseline vs DPCNN,exact_mcnemar_p_value,2.052069441102038e-25
+Baseline vs TextCNN,baseline_only_correct,693
+Baseline vs TextCNN,experimental_only_correct,1226
+Baseline vs TextCNN,discordant_pairs,1919
+Baseline vs TextCNN,exact_mcnemar_p_value,2.319266463507531e-34
+Model 1 - Mean-Pooled Embedding Baseline,confusion_tn,17748.0
+Model 1 - Mean-Pooled Embedding Baseline,confusion_fp,1252.0
+Model 1 - Mean-Pooled Embedding Baseline,confusion_fn,1124.0
+Model 1 - Mean-Pooled Embedding Baseline,confusion_tp,17876.0
+Model 1 - Mean-Pooled Embedding Baseline,slice_length_short_0_50_macro_f1,0.9358995028798628
+Model 1 - Mean-Pooled Embedding Baseline,slice_length_short_0_50_error_rate,0.0614141861237136
+Model 1 - Mean-Pooled Embedding Baseline,slice_length_medium_51_200_macro_f1,0.9391903864009952
+Model 1 - Mean-Pooled Embedding Baseline,slice_length_medium_51_200_error_rate,0.0608079174001998
+Model 1 - Mean-Pooled Embedding Baseline,slice_length_long_201_plus_macro_f1,0.9278228800880282
+Model 1 - Mean-Pooled Embedding Baseline,slice_length_long_201_plus_error_rate,0.0683362698212937
+Model 1 - Mean-Pooled Embedding Baseline,slice_negation_present_macro_f1,0.9312481598543848
+Model 1 - Mean-Pooled Embedding Baseline,slice_negation_present_error_rate,0.0665878644602049
+Model 1 - Mean-Pooled Embedding Baseline,slice_negation_absent_macro_f1,0.931262260375202
+Model 1 - Mean-Pooled Embedding Baseline,slice_negation_absent_error_rate,0.0512795080341201
+Model 2 - DPCNN,confusion_tn,18471.0
+Model 2 - DPCNN,confusion_fp,529.0
+Model 2 - DPCNN,confusion_fn,1340.0
+Model 2 - DPCNN,confusion_tp,17660.0
+Model 2 - DPCNN,slice_length_short_0_50_macro_f1,0.9461983428260976
+Model 2 - DPCNN,slice_length_short_0_50_error_rate,0.0518977536793183
+Model 2 - DPCNN,slice_length_medium_51_200_macro_f1,0.9536401882402544
+Model 2 - DPCNN,slice_length_medium_51_200_error_rate,0.04634343626588
+Model 2 - DPCNN,slice_length_long_201_plus_macro_f1,0.9422960833228496
+Model 2 - DPCNN,slice_length_long_201_plus_error_rate,0.0536118801912912
+Model 2 - DPCNN,slice_negation_present_macro_f1,0.9495972652763428
+Model 2 - DPCNN,slice_negation_present_error_rate,0.0483200802349738
+Model 2 - DPCNN,slice_negation_absent_macro_f1,0.9327765210923884
+Model 2 - DPCNN,slice_negation_absent_error_rate,0.0515770680420551
+Model 3 - TextCNN,confusion_tn,18089.0
+Model 3 - TextCNN,confusion_fp,911.0
+Model 3 - TextCNN,confusion_fn,932.0
+Model 3 - TextCNN,confusion_tp,18068.0
+Model 3 - TextCNN,slice_length_short_0_50_macro_f1,0.945185331051734
+Model 3 - TextCNN,slice_length_short_0_50_error_rate,0.0523403784441739
+Model 3 - TextCNN,slice_length_medium_51_200_macro_f1,0.9540847818518864
+Model 3 - TextCNN,slice_length_medium_51_200_error_rate,0.045915211495456
+Model 3 - TextCNN,slice_length_long_201_plus_macro_f1,0.9458249407890356
+Model 3 - TextCNN,slice_length_long_201_plus_error_rate,0.0509690410269317
+Model 3 - TextCNN,slice_negation_present_macro_f1,0.9496048458805456
+Model 3 - TextCNN,slice_negation_present_error_rate,0.0486782720825273
+Model 3 - TextCNN,slice_negation_absent_macro_f1,0.9352047091129516
+Model 3 - TextCNN,slice_negation_absent_error_rate,0.0480063479468358

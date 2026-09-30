@@ -1,0 +1,55 @@
+run_id=20260926_151536
+model=dpcnn
+device=cuda
+parameters=7652501
+vocabulary_source=training_subset_only
+train_examples=503974
+val_examples=55998
+learning_rate=0.0001
+batch_size=64
+epochs=1
+gradient_clip=1.0
+embedding_dim=200
+channels=250
+num_blocks=4
+dropout=0.25
+step=200 loss=0.4017 grad_norm=3.5095
+step=400 loss=0.3519 grad_norm=4.2981
+step=600 loss=0.3037 grad_norm=2.2904
+step=800 loss=0.2791 grad_norm=2.0797
+step=1000 loss=0.2991 grad_norm=4.0328
+step=1200 loss=0.2114 grad_norm=2.0325
+step=1400 loss=0.3698 grad_norm=10.4712
+step=1600 loss=0.2140 grad_norm=1.8257
+step=1800 loss=0.3232 grad_norm=6.2082
+step=2000 loss=0.1435 grad_norm=3.7980
+step=2200 loss=0.1655 grad_norm=1.8330
+step=2400 loss=0.1048 grad_norm=2.0884
+step=2600 loss=0.2347 grad_norm=5.4638
+step=2800 loss=0.2058 grad_norm=2.3644
+step=3000 loss=0.1927 grad_norm=2.6222
+step=3200 loss=0.1239 grad_norm=1.6337
+step=3400 loss=0.1028 grad_norm=1.3010
+step=3600 loss=0.1339 grad_norm=3.3467
+step=3800 loss=0.2019 grad_norm=5.1901
+step=4000 loss=0.0907 grad_norm=2.2207
+step=4200 loss=0.1699 grad_norm=2.5877
+step=4400 loss=0.0480 grad_norm=0.9173
+step=4600 loss=0.2344 grad_norm=2.8863
+step=4800 loss=0.2163 grad_norm=4.0805
+step=5000 loss=0.1849 grad_norm=2.1703
+step=5200 loss=0.1197 grad_norm=1.4365
+step=5400 loss=0.1504 grad_norm=2.0029
+step=5600 loss=0.1731 grad_norm=3.3538
+step=5800 loss=0.1477 grad_norm=1.9000
+step=6000 loss=0.1710 grad_norm=2.2157
+step=6200 loss=0.1421 grad_norm=1.6807
+step=6400 loss=0.2407 grad_norm=3.0402
+step=6600 loss=0.0908 grad_norm=1.3475
+step=6800 loss=0.1033 grad_norm=1.7332
+step=7000 loss=0.0753 grad_norm=2.0315
+step=7200 loss=0.1906 grad_norm=2.7770
+step=7400 loss=0.2039 grad_norm=2.6831
+step=7600 loss=0.1018 grad_norm=2.2800
+step=7800 loss=0.1250 grad_norm=2.2268
+epoch=1 train_loss=0.2093 train_accuracy=0.9108 val_loss=0.1395 val_accuracy=0.9455 epoch_time_sec=278.35 examples_per_sec=1810.57

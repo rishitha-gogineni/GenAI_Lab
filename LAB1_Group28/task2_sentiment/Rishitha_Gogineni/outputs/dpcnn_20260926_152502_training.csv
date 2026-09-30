@@ -1,0 +1,10 @@
+metric,value
+run_id,20260926_152502
+model,dpcnn
+train_loss,0.046482
+train_accuracy,0.984162
+validation_loss,0.166693
+validation_accuracy,0.952534
+parameter_count,7652501
+peak_memory_gb,0.229
+training_time_seconds,1435.73

@@ -1,0 +1,3 @@
+comparison,baseline_only_correct,experimental_only_correct,discordant_pairs,exact_mcnemar_p_value
+Baseline vs DPCNN,935,1442,2377,2.052069441102038e-25
+Baseline vs TextCNN,693,1226,1919,2.319266463507531e-34
