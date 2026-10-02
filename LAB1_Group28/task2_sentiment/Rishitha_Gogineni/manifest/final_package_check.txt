@@ -1,0 +1,16 @@
+Task 2 final package verification
+failure_analysis_bytes=14769
+results_bytes=6267
+metrics_report_bytes=7873
+error_case_headings=20
+has_20_case_csv=True
+has_mcnemar=True
+has_slice_comparison=True
+raw_logs_total=16
+baseline_logs=6
+textcnn_logs=4
+dpcnn_logs=6
+notebook_code_cells=11
+notebook_code_cells_with_outputs=11
+hardcoded_personal_path_files=[]
+python_compile_errors=[]

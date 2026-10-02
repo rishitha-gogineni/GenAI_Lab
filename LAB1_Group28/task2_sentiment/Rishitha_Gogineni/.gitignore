@@ -1,0 +1,9 @@
+# Large local artifacts that are supplied through Google Drive instead of GitHub.
+checkpoints/*.pt
+data_raw/
+datasets/
+*.zip
+
+# Python-generated local files.
+__pycache__/
+*.py[cod]
